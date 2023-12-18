@@ -7,7 +7,7 @@
 Lista com diversos Frameworks, Bibliotecas, Wizards, Experts e Componentes para serem utilizados no Delphi <br/>
 Nos envie suas sugestões, para que possamos adiciona-las a lista. O envio pode ser feito através de <a href="https://github.com/Code4Delphi/utilitarios-delphi/issues" target="_blank"> Issues</a>, <a href="https://github.com/Code4Delphi/utilitarios-delphi/pulls" target="_blank">Pull requests</a> ou atráves de um de nossos contatos . <br/>
 
-### ⭐ Não deixe de deixar sua estrela para ajudar a propagar o projeto.
+### ⭐ Não deixe de deixar sua estrela para ajudar a propagar o diretório.
 
 ## 📞 Contatos
 
