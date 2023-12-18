@@ -1,3 +1,30 @@
+# Frameworks, Bibliotecas, Wizards, Experts e Componentes Delphi
+<p align="center">
+  <a href="https://github.com/Code4Delphi/Code4D-Wizard/blob/master/Images/C4D-Logo.png">
+    <img alt="Code4Delphi" height="100" src="https://github.com/Code4Delphi/Code4D-Wizard/blob/master/Images/c4d-logo-100x100.png">
+  </a> 
+</p>
+Lista com diversos Frameworks, Bibliotecas, Wizards, Experts e Componentes para serem utilizados no Delphi <br/>
+Nos envie suas sugestões, para que possamos adiciona-las a lista. O envio pode ser feito através de Issues, Pull requests ou atráves de um de nossos contatos. <br/>
+Não deixe de deixar sua estrela para ajudar a propagar o projeto.
+
+## 📞 Contatos
+
+<p align="left">
+  <a href="https://t.me/Code4Delphi" target="_blank">
+    <img src="https://img.shields.io/badge/Telegram:-Join%20Channel-blue?logo=telegram"/>
+  </a>  
+  &nbsp;
+  <a href="https://www.youtube.com/@code4delphi" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube:-Join%20Channel-red?logo=youtube&logoColor=red"/>
+  </a>
+  &nbsp;
+  <a href="mailto:contato@code4delphi.com.br" target="_blank">
+    <img src="https://img.shields.io/badge/E--mail-contato%40code4delphi.com.br-yellowgreen?logo=maildotru&logoColor=yellowgreen"/>
+  </a>
+</p>
+
+
 <table>
   <thead>
     <tr>
