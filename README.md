@@ -1397,7 +1397,8 @@ LeakCheck é uma extensão do gerenciador de memória que adiciona funcionalidad
         </tr>
         <tr>
           <td colspan="5">  &nbsp; </td>
-        </tr>         <tr> 
+        </tr>         
+        <tr> 
           <td> <span title="129 - Awesome Pascal"> <b> Awesome Pascal </b> </span> </td>
           <td> <a target="_blank" href="https://github.com/Fr0sT-Brutal" title="Acessar link"> Fr0sT-Brutal </a> </td>
           <td> <a target="_blank" href="https://github.com/Fr0sT-Brutal/awesome-pascal" title="Acessar link"> https://github.com/Fr0sT-Brutal/awesome-pascal </a> </td>
@@ -1410,6 +1411,25 @@ LeakCheck é uma extensão do gerenciador de memória que adiciona funcionalidad
         </tr>
         <tr>
           <td colspan="5"> Uma lista de frameworks, bibliotecas, recursos e coisas brilhantes de Delphi, FreePascal e outros *Pascal. Apenas projetos de código aberto são considerados nesta lista.            
+          </td>
+        </tr>
+        <tr>
+          <td colspan="5">  &nbsp; </td>
+        </tr>         
+        <tr> 
+          <td> <span title="130 - Excel4Delphi"> <b> Excel4Delphi </b> </span> </td>
+          <td> <a target="_blank" href="https://github.com/HemulGM" title="Acessar link"> HemulGM </a> </td>
+          <td> <a target="_blank" href="https://github.com/HemulGM/Excel4Delphi" title="Acessar link"> https://github.com/HemulGM/Excel4Delphi </a> </td>
+          <td> 
+            <img alt="" height="20" src="" title=""/> 
+          </td>
+          <td> 
+            <img src="https://github.com/Code4Delphi/utilitarios/blob/master/Img/ok.png" title="Sim" alt="Sim" /> 
+          </td>
+        </tr>
+        <tr>
+          <td colspan="5">
+            Ler, Escrever excel 2002/2003 XML (SpreadsheetML / XML Spreadsheet) biblioteca.
           </td>
         </tr>
         <tr>
