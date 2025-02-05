@@ -648,24 +648,6 @@ WebSocket é um protocolo de comunicação bidirecional que permite a comunicaç
     </thead>
     <tbody> 
         <tr> 
-          <td> <span title="86 - D2Bridge"> <b> D2Bridge </b> </span> </td>
-          <td> <a target="_blank" href="https://www.youtube.com/@talisjonatas" title="Acessar link"> Talis Jonatas Gomes </a> </td>
-          <td> <a target="_blank" href="https://d2bridge.com.br/svn/D2Bridge/trunk" title="Acessar link"> https://d2bridge.com.br/svn/D2Bridge/trunk </a> </td>
-          <td> 
-            <img alt="Brasil" height="20" src="https://github.com/Code4Delphi/utilitarios/blob/master/Img/Bandeiras/brasil.png" title="Brasil"/> 
-          </td>
-          <td> 
-            <img src="https://github.com/Code4Delphi/utilitarios/blob/master/Img/ok.png" title="Sim" alt="Sim" /> 
-          </td>
-        </tr>
-        <tr>
-          <td colspan="5"> Agora é possivel levar seus aplicativos feitos em Delphi diretamente para WEB sem reescrever código, mesma base de código, mesmo aplicativo, Windows e WEB, tudo isso usando a nova Framework D2Bridge agora com o Prism. </br>
-<b> <span class="text-danger">*</span> Ao acessar o projeto caso seja exigido informe o usuário anonymous e deixe o campo senha em branco </b><br/><p> * Discord (disponível em Português e Inglês): <a target="_blank" href="https://discord.gg/CfYN3FpYMc" title="Acessar link"> https://discord.gg/CfYN3FpYMc </a> </p><p> * Grupo do WhatsAPP: <a target="_blank" href="https://chat.whatsapp.com/Jz8ditsGyzl79eSI5tL5Cq" title="Acessar link"> https://chat.whatsapp.com/Jz8ditsGyzl79eSI5tL5Cq </a> </p><p> * Vídeos: <a target="_blank" href="www.youtube.com/@talisjonatas" title="Acessar link"> www.youtube.com/@talisjonatas </a> </p><p> * Prism Server without Datasnap: <a target="_blank" href="https://www.youtube.com/watch?v=aacB9_X_Nfg" title="Acessar link"> https://www.youtube.com/watch?v=aacB9_X_Nfg </a> </p><p> * Como funciona: <a target="_blank" href="http://code4delphi.com.br/img/D2Bridge-Como-Funciona.png" title="Acessar link"> http://code4delphi.com.br/img/D2Bridge-Como-Funciona.png </a> </p>            
-          </td>
-        </tr>
-        <tr>
-          <td colspan="5">  &nbsp; </td>
-        </tr>         <tr> 
           <td> <span title="82 - IntraWeb"> <b> IntraWeb </b> </span> </td>
           <td> <a target="_blank" href="https://www.atozed.com/" title="Acessar link"> Atozed Software </a> </td>
           <td> <a target="_blank" href="https://www.atozed.com.br/intraweb/" title="Acessar link"> https://www.atozed.com.br/intraweb/ </a> </td>
